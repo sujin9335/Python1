@@ -26,13 +26,14 @@
 # num = int(input("숫자 입력해주세요 : ") )
 # print(num, type(num))
 
-word1 = input("첫번째 단어 : ")
-word2 = input("두번째 단어 : ")
-word3 = input("세번째 단어 : ")
+# word1 = input("첫번째 단어 : ")
+# word2 = input("두번째 단어 : ")
+# word3 = input("세번째 단어 : ")
 
-a = word1.upper()
-b = word2.upper()
-c = word3.upper()
+# a = word1.upper()
+# b = word2.upper()
+# c = word3.upper()
 
-print('='*20)
-print(a[0]+b[0]+c[0])
+# print('='*20)
+# print(a[0]+b[0]+c[0])
+
