@@ -19,9 +19,9 @@
 # print(num.split())
 # print(num2.split(":"))
 
-msg = input("입력해주세요 : ") 
-print(msg.split())
-print(msg)
+# msg = input("입력해주세요 : ") 
+# print(msg.split())
+# print(msg)
 
 # num = int(input("숫자 입력해주세요 : ") )
 # print(num, type(num))

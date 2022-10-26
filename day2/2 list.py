@@ -21,7 +21,7 @@
 # print(num_sliching)
 
 
-# list_rage = list(range(1,101,2))
+# list_rage = list(range(1,101))
 # print(list_rage)
 
 # list_01 = ["A", "B"]
@@ -46,7 +46,7 @@
 
 # list_num = list(range(1,11))
 # print("삭제전:", list_num)
-# list_num[0:1] = []
+# list_num[2:3] = []
 # print(list_num)
 # del list_num[0]
 # print("삭제후:", list_num)
@@ -77,7 +77,7 @@
 # # list_lang.reverse()
 # list_lang.sort(reverse=True)
 # print(list_lang)
-# print(list_lang.index("egg"))
+# print(list_lang.index("banana"))
 
 # print(list_lang.pop(1)) #선택한 위치의 요소를 뺸 값 표시
 # print(list_lang)
