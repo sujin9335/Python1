@@ -42,16 +42,32 @@
 # in_str = input("입력해주세요.\n")
 # print(in_str.upper()+" World!")
 
-a = input("아이디 : ")
 
-sujin = "ktfkcc"
-kim = "6987"
+# a = input("아이디 : ")
+# su = "ktfkcc"
+# kim = "6987"
+# jin = "9335"
+# if a == su or jin == a:
+#     print("수진")
+# elif a == kim :
+#     print("킴씨")
+# else :
+#     print("누구")
 
-if a == sujin :
-    print("수진")
-elif a == kim :
-    print("킴씨")
-else :
-    print("누구")
+
+# a = 0
+# while a < 3:
+#     a = a + 1
+#     print("sujin")
+
+# i = 0
+# print('print("Hello world ' + str(i+1) +'")')
 
 
+i = 0
+while i < 10:
+    if i == 4:
+        break
+    print(i)
+    i = i + 1
+print(2)

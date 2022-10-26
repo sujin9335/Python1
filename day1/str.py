@@ -31,7 +31,7 @@
 
 # msg = "python is fun"
 # print(msg[6],msg[7],msg[8],msg[-2])
-# print(msg[13])
+# print(msg[11])
 
 
 # msg = "1234567890"
@@ -61,6 +61,6 @@
 
 word = "pythonpp"
 print(word.count('p'))
-print(word.find("q"))
-print(word.index("q"))
+print(word.find("1"))
+print(word.index("p"))
 
