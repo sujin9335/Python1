@@ -64,10 +64,44 @@
 # print('print("Hello world ' + str(i+1) +'")')
 
 
-i = 0
-while i < 10:
-    if i == 4:
-        break
-    print(i)
-    i = i + 1
-print(2)
+# i = 0
+# while i < 10:
+#     if i == 4:
+#         break
+#     print(i)
+#     i = i + 1
+# print(2)
+
+
+# members = ['egoing', 'leezche', 'graphittie']
+# i = 0
+# while i < len(members):
+#     print(members[i])
+#     i = i + 1
+
+
+# members = ['egoing', 'leezche', 'graphittie']
+# for member in members:
+#     print(member)
+
+
+# id = input("아이디: ")
+# members = ['su', 'jin', 'kim']
+# for member in members:
+#     if member == id:
+#         print('안녕'+member)
+#         import sys # 종료 하는법1
+#         sys.exit() # 종료 하는법2
+# print('WHO')
+
+
+# id = input("아이디:")
+# members = ['su', 'jin', 'kim']
+# i = 0
+# while i < len(members):
+#     if members[i] == id:
+#         print('안녕'+members[i])
+#         # import sys # 종료 하는법1
+#         # sys.exit() # 종료 하는법2 
+#     i = i + 1
+# print('who')
