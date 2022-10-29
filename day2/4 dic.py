@@ -26,12 +26,18 @@
 # print(dic_profile1.values()), type(dic_profile1)
 
 
-dic_profile1 = {'name':'메가스터디', 'adress':'강남', 'floor':4}
-result = dic_profile1.keys()
-print(result)
-dict_to_list = list(result)
-print(dict_to_list)
+# dic_profile1 = {'name':'메가스터디', 'adress':'강남', 'floor':4}
+# result = dic_profile1.keys()
+# print(result)
+# dict_to_list = list(result)
+# print(dict_to_list)
 
 # result_value = dic_profile1.values()
 # dict_to_list2 = list(result_value)
 # print(dict_to_list2)
+
+
+a = ['1','1','1','3','2','5']
+print(a)
+set(a)
+print(a)
