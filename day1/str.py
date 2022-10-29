@@ -34,9 +34,9 @@
 # print(msg[11])
 
 
-# msg = "1234567890"
-# print(msg[0:5]) # 0이상 5미만
-# print(msg[::2])
+msg = "1234567890"
+print(msg[0:5]) # 0이상 5미만
+print(msg[::2])
 
 #예제슬라이싱
 # a = "20221225christmas"
@@ -59,8 +59,8 @@
 # print("올해는 %d년 %s의 해 입니다"%(date,animal))
 # print("올해는 %s년 %s의 해 입니다"%(date,animal))
 
-word = "pythonpp"
-print(word.count('p'))
-print(word.find("1"))
-print(word.index("p"))
+# word = "pythonpp"
+# print(word.count('p'))
+# print(word.find("1"))
+# print(word.index("p"))
 
